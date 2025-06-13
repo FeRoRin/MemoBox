@@ -1,4 +1,4 @@
-# Memo App
+# Memo Box App
 
 A simple fullstack memo app using Vue.js and Laravel.
 
